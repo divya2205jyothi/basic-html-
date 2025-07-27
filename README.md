@@ -1,0 +1,1 @@
+This is a basic HTML webpage titled "CYBERSECURITY LIST" that displays a list of subjects related to cybersecurity and computer science using simple HTML formatting. The page sets the background color to lavender and features a centered main heading titled “SUBJECTS” in bold.
